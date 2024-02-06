@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="go_back">Go Back</string>
+    <string name="to_do_title">To Do Title</string>
+    <string name="to_do_description">To Do Description</string>
+    <string name="title_cannot_be_empty">Title cannot be empty!</string>
+    <string name="description_cannot_be_empty">Description cannot be empty!</string>
+    <string name="todo_entry">ToDo Entry</string>
+</resources>
